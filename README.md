@@ -1,7 +1,7 @@
-#Projeto de Sistemas Ubíquos 
+# Projeto de Sistemas Ubíquos 
 
 
-##Modo de uso mainCLI.py
+## Modo de uso mainCLI.py
 
 python3 mainCLI.py <string com comandos>
   
