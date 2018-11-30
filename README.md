@@ -19,4 +19,4 @@ Nesse exemplo o Jabuti andará 2 segundos para frente, virará a direita, anda m
 
 `python3 main.py`
 
-Acessar de qualquer navegador a página localhost:5000
+Acessar de qualquer navegador a página http://192.168.1.2:5000
