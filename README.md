@@ -1,5 +1,6 @@
 # Projeto de Sistemas Ubíquos 
-
+imagem ISO compatível com  Raspberrypi 3B / 3B+ 
+https://drive.google.com/drive/folders/1_j1xjECIMcgfBg9zIqjuU9spgfP-RJ4k
 
 ## Modo de uso mainCLI
 
