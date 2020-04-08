@@ -1,4 +1,9 @@
 # Projeto de Sistemas Ubíquos 
+Trabalho realizado na matéria Sistemas Ubíquos baseado no [Projeto Jabuti](https://jabutiedu.org/).
+
+![jabuti_image](https://github.com/JulianoSGomes/Projeto-Ubiquos/blob/master/media/jabuti.jpg)
+![jabuti_run](https://github.com/JulianoSGomes/Projeto-Ubiquos/blob/master/media/jabuti.gif)
+
 imagem ISO compatível com  Raspberrypi 3B / 3B+ 
 https://drive.google.com/drive/folders/1_j1xjECIMcgfBg9zIqjuU9spgfP-RJ4k
 
@@ -7,10 +12,10 @@ https://drive.google.com/drive/folders/1_j1xjECIMcgfBg9zIqjuU9spgfP-RJ4k
 `python3 mainCLI.py <string com comandos>`
   
 String com comandos pode ser formada por qualquer combinação  das letras "f", "t", "d" e "e". Onde:
-F = Frente
-T = Trás
-D = Direita
-E = Esquerda
+* F = Frente
+* T = Trás
+* D = Direita
+* E = Esquerda
 
 `python3 mainCLI.py ffdfe`
 
